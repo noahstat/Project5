@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.TreeSet;
-//problem in LetterAvgtoString
+
 public class MesoInherit extends MesoStation
 {
 	protected static ArrayList<String> stations;
